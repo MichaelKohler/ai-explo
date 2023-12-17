@@ -1,0 +1,16 @@
+{
+  "name": "ai-explo",
+  "version": "1.0.0",
+  "description": "AI Explorations",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "openai": "^4.23.0"
+  }
+}
